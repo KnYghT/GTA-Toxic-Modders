@@ -2,7 +2,7 @@
 List of malicious modders in GTA Online made by MxGTA#1746 and N0N5T0P#0001.
 <br>
 
-*You are free to contribute to this list and to use for it for your own purposes.*
+*You are free to contribute to this list and to use it for your own purposes.*
 
 <br>
 
