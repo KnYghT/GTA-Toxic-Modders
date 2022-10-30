@@ -31,7 +31,7 @@ Dead_Dlshy | 178604418 | Crash |
 Diemas0907 | 171580465 | Crash |
 Distingxished | 123659228 | Crash |
 Donnut0000 | 192057227 | Crash |
--E-F-N- | 206848547 | Crash |
+-E-F-N- | 206848547 | Crash, Kick | asshole
 EgoSumChaser | 201684500 | Crash |
 ElllisGame | 215976253 | Crash |
 e_skillz_orm | 180261287 | Kick |
@@ -49,6 +49,7 @@ Kadir | 160863042 | Crash |
 Kahlkopfadler69 | 211566190 | Kick |
 Kevin37770 | 175346437 | Crash |
 KILLER42_UA | 40850044 | Kick |
+KWENG-YOUTUBE | 202238990 | DDOS, Crash, Kick | DDOS Kid
 Kxnuuu | 164991525 | Crash |
 Lena (SPOOFED) | 8416267785 (SPOOFED) | Kick | spoofed
 \_\_Lizzzy__ | 216527576 | Crash  |
@@ -61,7 +62,7 @@ MrXcavator1 | 108497894 | Crash |
 Muffin9897 | 135484037 | Crash |
 NcklSlot0 | 199382328 | Crash |
 NexuFIN | 148255759 | Crash |
--Nord_ | 206353260 | Crash |
+-Nord_ | 206353260 | Crash, Kick | asshole
 oj_3000 | 202176122 | Kick |
 PabloBravo16 | 87467628 | Crash |
 PeacefulBread | 175797244 | Kick |
@@ -69,6 +70,7 @@ PleasedBloom847 | 213694480 | Crash |
 -polyphonic- | 150447596 | Crash |
 RantingPig | 210708357 | Crash |
 RockStarGames (SPOOFED) | 4 (SPOOFED) | Crash | spoofed
+School_phot | 181123636 | IP Lookup
 Schraubkopf__HD | 174872475 | Kick
 SeKcAtl | 148739883 | Crash |
 ShadowAvocado2 | 206952133 | Kick |
@@ -87,6 +89,7 @@ USArmy | 208045684 | Kick |
 uTrewww | 75543223 | Kick |
 --vWxsted-- | 103569798 | Crash |
 warqinq | 142958814 | Crash |
+xCandyxxx | 77973851 | Crash, Kick, Annoying
 x_EtniLfssip_x | 171728603 | Crash |
 xoSxlence | 211455449 | Crash |
 xX_RUDY_MKII | 125182569 | Crash |
