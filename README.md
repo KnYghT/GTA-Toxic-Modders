@@ -1,5 +1,5 @@
 # GTA-Toxic-Modders
-List of malicious modders in GTA Online made by MxGTA#1746 and N0N5T0P#0001.
+List of malicious modders in GTA Online made by (Discord name) MxGTA#1746 and N0N5T0P#0001.
 <br>
 
 *You are free to contribute to this list and to use it for your own purposes.*
@@ -8,6 +8,10 @@ List of malicious modders in GTA Online made by MxGTA#1746 and N0N5T0P#0001.
 
 USERNAME | ROCKSTAR ID | REASON | NOTES
 ------------ | ------------- | ------------- | -------------
+  |   |   |
+\_\_Lizzzy__<br>Hebsoulia<br>ElllisGame<br>-Kelsie- | 216527576<br>216671017<br>215976253<br>206611492 | Harassment, Stalking, Crash | **Very dangerous**<br>He is very well known, more info here: https://doxbin.com/upload/EXPOSEDKELSIEAKADANIEL
+IIllllllIIllI | 202004810 | Crash, Kick, pretends to be a R* developer | **He is known by these spoofed names:**<br> OSIRIS, Frankenstein, HenkerMajini, PUMPKINS, Jeffrey Dahmer, GabberHead<br> **Spoofed RID:** 6969696969
+  |   |   |
 Absik80 | 75567810 | Kick |
 AdmiraLISTICID | 189143875 | Kick |
 aeghswad | 202065527 | Crash |
@@ -41,7 +45,6 @@ GermanLetsplayyy | 178144453 | Crash |
 -GTA5-DUTCH-NL- | 215206233 | Kick |
 \_haqik_ | 206296404 | Crash |
 IHateYouDach | 39556069 | Crash |
-IIllllllIIllI | 202004810 | Crash, Kick, pretends to be a R* developer | **He is known by these spoofed names:**<br> OSIRIS, Frankenstein, HenkerMajini, PUMPKINS, Jeffrey Dahmer<br> **Spoofed RID:** 6969696969
 ImDaNoob | 208730955 | Kick |
 III_K-E-F_III | 127968893 | Crash |
 J_Allen224 | 188348450 | Crash |
@@ -49,10 +52,11 @@ Kadir | 160863042 | Crash |
 Kahlkopfadler69 | 211566190 | Kick |
 Kevin37770 | 175346437 | Crash |
 KILLER42_UA | 40850044 | Kick |
-KWENG-YOUTUBE | 202238990 | DDOS, Crash, Kick | DDOS Kid
+KWENG-YOUTUBE | 202238990 | DDOS, Crash, Kick | DDOS !
 Kxnuuu | 164991525 | Crash |
 Lena (SPOOFED) | 8416267785 (SPOOFED) | Kick | spoofed
-\_\_Lizzzy__ | 216527576 | Crash  |
+LoCigV1 | 131358653 | Crash, Kick
+Luis_HRL | 48374429 | Crash, Kick
 Mary1703 | 215391472 | Kick |
 Max1121316723 | 188851001 | Crash |
 Maxime40012 | 184396110 | Kick |
@@ -64,6 +68,7 @@ NcklSlot0 | 199382328 | Crash |
 NexuFIN | 148255759 | Crash |
 -Nord_ | 206353260 | Crash, Kick | asshole
 oj_3000 | 202176122 | Kick |
+Oleg_1217 | 64921584 | Crash, Kick
 PabloBravo16 | 87467628 | Crash |
 PeacefulBread | 175797244 | Kick |
 PleasedBloom847 | 213694480 | Crash |
@@ -77,7 +82,9 @@ ShadowAvocado2 | 206952133 | Kick |
 SilentDeath4234 | 187496164 | Kick |
 Silverhand-kill | 88968465 | Crash |
 SinjeMajik | 138360575 | Kick |
+Skoirp-_NoScxp93 | 211187292 | Crash, Kick | TikTok: https://www.tiktok.com/@snoopyenktm
 smellywest | 206625546 | Crash |
+srngvq8ergnjgf | 14272232 | Crash
 S_TALKERth | 166227061 | Kick |
 suprakiller4505 | 188851516 | Crash |
 Thegamerpro2005 | 131349328 | Crash |
@@ -95,6 +102,7 @@ xoSxlence | 211455449 | Crash |
 xX_RUDY_MKII | 125182569 | Crash |
 xxx_Tekno_xxx | 132312069 | Crash |
 yasouodream | 215996917 | Crash |
+Zaphir123 | 198227955 | Crash, Kick
 ZeLeTZ | 137535625 | Kick |
 
 
