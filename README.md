@@ -1,10 +1,11 @@
 # GTA-Toxic-Modders
-List of malicious modders in GTA Online made by (Discord name) MxGTA#1746 and N0N5T0P#0001.
+List of malicious modders in GTA Online made by 
+* [@Mr-X-GTA](https://github.com/Mr-X-GTA), Discord: MxGTA#1746
+* [@N0N5T0](https://github.com/N0N5T0), Discord: N0N5T0P#0001
+
 <br>
 
 *You are free to contribute to this list and to use it for your own purposes.*
-
-<br>
 
 USERNAME | ROCKSTAR ID | REASON | NOTES
 ------------ | ------------- | ------------- | -------------
