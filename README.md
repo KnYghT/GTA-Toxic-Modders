@@ -36,7 +36,7 @@ Dead_Dlshy | 178604418 | Crash |
 Diemas0907 | 171580465 | Crash |
 Distingxished | 123659228 | Crash |
 Donnut0000 | 192057227 | Crash |
--E-F-N- | 206848547 | Crash, Kick | asshole
+-E-F-N- | 206848547 | Crash, Kick | 
 EgoSumChaser | 201684500 | Crash |
 ElllisGame | 215976253 | Crash |
 e_skillz_orm | 180261287 | Kick |
@@ -67,7 +67,7 @@ MrXcavator1 | 108497894 | Crash |
 Muffin9897 | 135484037 | Crash |
 NcklSlot0 | 199382328 | Crash |
 NexuFIN | 148255759 | Crash |
--Nord_ | 206353260 | Crash, Kick | asshole
+-Nord_ | 206353260 | Crash, Kick | 
 oj_3000 | 202176122 | Kick |
 Oleg_1217 | 64921584 | Crash, Kick
 PabloBravo16 | 87467628 | Crash |
@@ -83,7 +83,7 @@ ShadowAvocado2 | 206952133 | Kick |
 SilentDeath4234 | 187496164 | Kick |
 Silverhand-kill | 88968465 | Crash |
 SinjeMajik | 138360575 | Kick |
-Skoirp-_NoScxp93 | 211187292 | Crash, Kick | TikTok: https://www.tiktok.com/@snoopyenktm
+Skoirp-\_NoScxp93 | 211187292 | Crash, Kick | [TikTok](https://www.tiktok.com/@snoopyenktm)
 smellywest | 206625546 | Crash |
 srngvq8ergnjgf | 14272232 | Crash
 S_TALKERth | 166227061 | Kick |
@@ -97,7 +97,7 @@ USArmy | 208045684 | Kick |
 uTrewww | 75543223 | Kick |
 --vWxsted-- | 103569798 | Crash |
 warqinq | 142958814 | Crash |
-xCandyxxx | 77973851 | Crash, Kick, Annoying
+xCandyxxx | 77973851 | Crash, Kick, Annoying | [GitHub](https://github.com/Millerrrrrrrrrr)
 x_EtniLfssip_x | 171728603 | Crash |
 xoSxlence | 211455449 | Crash |
 xX_RUDY_MKII | 125182569 | Crash |
