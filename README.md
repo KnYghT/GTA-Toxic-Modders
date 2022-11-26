@@ -88,7 +88,7 @@ smellywest | 206625546 | Crash |
 srngvq8ergnjgf | 14272232 | Crash
 S_TALKERth | 166227061 | Kick |
 suprakiller4505 | 188851516 | Crash |
-__Seb__22 | 217701614 | Crash, Kick, Gay |
+__Seb__22 | 217701614 | Crash, Kick |
 Thegamerpro2005 | 131349328 | Crash |
 Tony-Skywalker | 212896133 | Crash |
 Toyotapete | 166144120 | Kick |
