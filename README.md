@@ -53,7 +53,7 @@ Kadir | 160863042 | Crash |
 Kahlkopfadler69 | 211566190 | Kick |
 Kevin37770 | 175346437 | Crash |
 KILLER42_UA | 40850044 | Kick |
-KWENG-YOUTUBE | 202238990 | DDOS, Crash, Kick | DDOS !
+KWENG-YOUTUBE | 202238990 | DDOS, Crash, Kick, Money Drops | 
 Kxnuuu | 164991525 | Crash |
 Lena (SPOOFED) | 8416267785 (SPOOFED) | Kick | spoofed
 LoCigV1 | 131358653 | Crash, Kick
@@ -66,6 +66,7 @@ MrSpooky18 | 215019660 | Kick |
 MrXcavator1 | 108497894 | Crash |
 Muffin9897 | 135484037 | Crash |
 NcklSlot0 | 199382328 | Crash |
+Never_Die77 | 177172859 | Kick, Block Join | Spoofed as: C-R-A-C-K-E-D
 NexuFIN | 148255759 | Crash |
 -Nord_ | 206353260 | Crash, Kick | 
 oj_3000 | 202176122 | Kick |
