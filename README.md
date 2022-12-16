@@ -37,6 +37,7 @@ Diemas0907 | 171580465 | Crash |
 Distingxished | 123659228 | Crash |
 DomestosWC | 116098972 | Crash, Kick |
 Donnut0000 | 192057227 | Crash |
+Dr-Fos | 197811596 | Joins to crash and kick | Spoofed names: Bellatrix, Dr.Vannacutte, Dr.Strange, bibedibibedibop, Bibedibabbu, BibiBlocksberg
 -E-F-N- | 206848547 | Crash, Kick | 
 EgoSumChaser | 201684500 | Crash |
 ElllisGame | 215976253 | Crash |
@@ -57,7 +58,7 @@ Kevin37770 | 175346437 | Crash |
 KILLER42_UA | 40850044 | Kick |
 KWENG-YOUTUBE | 202238990 | DDOS, Crash, Kick, Money Drops | 
 Kxnuuu | 164991525 | Crash |
-Unsympathisch-AG | 132145558 | Kick | Old name: \_-Harley-Quinn-_ <br>Spoofed names: Lena, LenaUnsympathisch <br>Spoofed RID: 8416267785 <br>"2Take1Menu" mod menu
+Unsympathisch-AG | 132145558 | Kick | Old name: \_-Harley-Quinn-_ <br>Spoofed names: Lena, LenaUnsympathisch <br>Spoofed RIDs: 8416267785, 32489023 <br>"2Take1Menu" mod menu
 LM5-YTB | 131628006 | Kick |
 LoCigV1 | 131358653 | Crash, Kick |
 Luis_HRL | 48374429 | Crash, Kick |
