@@ -10,7 +10,7 @@ List of malicious modders in GTA Online made by
 USERNAME | ROCKSTAR ID | REASON | NOTES
 ------------ | ------------- | ------------- | -------------
   |   |   |
-\_\_Lizzzy__<br>Hebsoulia<br>ElllisGame<br>-Kelsie-<br>The_Cash_Is_King | 216527576<br>216671017<br>215976253<br>206611492<br>218535986 | Harassment, Stalking, Crash | **Very dangerous**<br>He is very well known, more info here: https://doxbin.com/upload/EXPOSEDKELSIEAKADANIEL
+\_\_Lizzzy__<br>Hebsoulia<br>ElllisGame<br>-Kelsie-<br>The_Cash_Is_King<br>IlIIIIxIlllIIl | 216527576<br>216671017<br>215976253<br>206611492<br>218535986<br>209232813 | Harassment, Stalking, Extortion, (Remote) Crash, (Remote) Kick | **Very dangerous**<br>He is very well known, more info here: https://doxbin.com/upload/EXPOSEDKELSIEAKADANIEL
 IIllllllIIllI | 202004810 | Crash, Kick, pretends to be a R* developer | **He is known by these spoofed names:**<br> OSIRIS, Frankenstein, HenkerMajini, PUMPKINS, Jeffrey Dahmer, GabberHead<br> **Spoofed RID:** 6969696969
   |   |   |
 Absik80 | 75567810 | Kick |
@@ -31,6 +31,7 @@ darkil896 | 76258506 | Kick |
 DarkSide (SPOOFED) | 0 (SPOOFED) | Crash | spoofed
 Darkz11111 | 165405480 | Crash |
 daSwiE1234 | 131514373 | Crash |
+Dauerstoend420 | 184173071 | (Remote) Crash, (Remote) Kick |
 Dead_Dlshy | 178604418 | Crash |
 \_Delmaff_ | 135001435 | Kick |
 Diemas0907 | 171580465 | Crash |
@@ -43,6 +44,7 @@ EgoSumChaser | 201684500 | Crash |
 ElllisGame | 215976253 | Crash |
 e_skillz_orm | 180261287 | Kick |
 Fizardz | 215927800 | Crash |
+ForceHaxElite | 159333733 | Crash, Stalking |
 franru12 | 207223244 | Crash |
 GermanLetsplayyy | 178144453 | Crash |
 Goggo---Hells | 182832068 | Kick |
@@ -109,6 +111,7 @@ warqinq | 142958814 | Crash |
 xCandyxxx | 77973851 | Crash, Kick, Annoying | [GitHub](https://github.com/Millerrrrrrrrrr), "Stand" mod menu
 x_EtniLfssip_x | 171728603 | Crash |
 xoSxlence | 211455449 | Crash |
+XoticPro13 | 189170768 | Crash | "Lightning X" mod menu developer
 xX_RUDY_MKII | 125182569 | Crash |
 Xx_TheMurder_xX | 101439158 | Crash |
 xxx_Tekno_xxx | 132312069 | Crash |
