@@ -177,7 +177,7 @@ zephyr1205 | 157439723 | Kick |
 ZeLeTZ | 137535625 | Kick |
 Zeno_OrbitzZ | 223962999 | Kick |
 ZinZinLife | 142062824 | Kick |
-zooburner | 123839003 | Kick |
+zooburner | 123839003 | Kick, Stalking |
 ZUYDGZYU | 204572700 | Crash |
 
 <!---
