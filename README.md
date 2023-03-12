@@ -10,7 +10,7 @@ List of malicious modders in GTA Online made by
 USERNAME | ROCKSTAR ID | REASON | NOTES
 ------------ | ------------- | ------------- | -------------
   |   |   |
-\_\_Lizzzy__<br>Hebsoulia<br>ElllisGame<br>-Kelsie-<br>The_Cash_Is_King<br>IlIIIIxIlllIIl<br>Diemas0907 | 216527576<br>216671017<br>215976253<br>206611492<br>218535986<br>209232813<br>171580465 | Harassment, Stalking, Extortion, (Remote) Crash, (Remote) Kick | **Very dangerous**<br>[More info](https://doxbin.com/upload/EXPOSEDKELSIEAKADANIEL)
+\_\_Lizzzy__<br>Hebsoulia<br>ElllisGame<br>-Kelsie-<br>The_Cash_Is_King<br>IlIIIIxIlllIIl<br>Diemas0907 | 216527576<br>216671017<br>215976253<br>206611492<br>218535986<br>209232813<br>171580465 | Harassment, Stalking, Extortion, (Remote) Crash, (Remote) Kick | **Very dangerous**<br>[Reddit Post](https://www.reddit.com/r/Gta5Modding/comments/1093h0m/is_there_someone_who_can_stop_this_player/)
   |   |   |
 111_merzox | 205759658 | Kick |
 a125170580 | 129820755 | Crash |
@@ -134,7 +134,7 @@ SilentDeath4234 | 187496164 | Kick |
 Silverhand-kill | 88968465 | Crash |
 SinjeMajik | 138360575 | Kick |
 \_\_Sino__ | 63466618 | Kick |
-Skoirp-\_NoScxp93 | 211187292 | Crash, Kick | [TikTok](https://www.tiktok.com/@snoopyenktm)
+Skoirp-\_NoScxp93 | 211187292 | Crash, Kick |
 -Sky_KoT | 25475983 | Kick |
 smellywest | 206625546 | Crash |
 srngvq8ergnjgf | 14272232 | Crash |
