@@ -14,6 +14,7 @@ List of malicious modders in GTA Online made by
   |   |   |
 | __Seb__22         | 217701614   | Crash, Kick             | "Stand" mod menu |
 | _Enchi1           | 206552769   | Kick                    |                  |
+| _Mor_tis_         | 103620187   | Kick, Crash             |                  |
 | --vWxsted--       | 103569798   | Crash                   |                  |
 | -E-F-N-           | 206848547   | Crash, Kick             |                  |
 | -GTA5-DUTCH-NL-   | 215206233   | Kick                    |                  |
@@ -63,6 +64,7 @@ List of malicious modders in GTA Online made by
 | e_skillz_orm      | 180261287   | Kick                    |                  |
 | EgoSumChaser      | 201684500   | Crash                   |                  |
 | Elena_Lucciana    | 131078163   | Kick                    |                  |
+| evade07x          | 200611531   | Sound Spam, Teleport    | "Stand" mod menu |
 | Fen1xGgs          | 48213057    | Crash                   |                  |
 | Fizardz           | 215927800   | Crash                   |                  |
 | ForceHaxElite     | 159333733   | Crash, Stalking         |                  |
@@ -139,6 +141,7 @@ List of malicious modders in GTA Online made by
 | Skoirp-\_NoScxp93 | 211187292   | Crash, Kick             |                  |
 | smellywest        | 206625546   | Crash                   |                  |
 | srngvq8ergnjgf    | 14272232    | Crash                   |                  |
+| Sum815            | 226445085   | Kick All                |                  |
 | suprakiller4505   | 188851516   | Crash                   |                  |
 | szczurix2115      | 223777722   | Crash                   |                  |
 | Thegamerpro2005   | 131349328   | Crash                   |                  |
@@ -159,6 +162,7 @@ List of malicious modders in GTA Online made by
 | who_7_am_7_I      | 209392008   | Kick                    |                  |
 | WhosDominik       | 66356811    | Crash                   |                  |
 | wooopsnorth       | 193313942   | Kick                    |                  |
+| XanthophyII       | 226435600   | DDoS, Kick              | "Stand" mod menu |
 | x_EtniLfssip_x    | 171728603   | Crash                   |                  |
 | xArSkAz           | 113200518   | Kick                    |                  |
 | xCandyxxx         | 77973851    | Crash, Kick, Annoying   | [GitHub](https://github.com/Millerrrrrrrrrr); "Stand", "Cherax" mod menu |
